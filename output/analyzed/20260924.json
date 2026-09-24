@@ -1,0 +1,20 @@
+[
+  {
+    "code": "601811",
+    "name": "新华文轩",
+    "market": "A股",
+    "action": "观察"
+  },
+  {
+    "code": "01191",
+    "name": "海光芯正",
+    "market": "港股",
+    "action": "排除"
+  },
+  {
+    "code": "META",
+    "name": "Meta",
+    "market": "美股",
+    "action": "等待"
+  }
+]
