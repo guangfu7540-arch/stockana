@@ -1,0 +1,20 @@
+[
+  {
+    "code": "603127",
+    "name": "昭衍新药",
+    "market": "A股",
+    "action": "排除"
+  },
+  {
+    "code": "01276",
+    "name": "恒瑞医药",
+    "market": "港股",
+    "action": "等待"
+  },
+  {
+    "code": "IOVA",
+    "name": "Iovance Biotherapeutics",
+    "market": "美股",
+    "action": "排除"
+  }
+]
