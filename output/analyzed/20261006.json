@@ -1,0 +1,14 @@
+[
+  {
+    "code": "02513",
+    "name": "智谱",
+    "market": "港股",
+    "action": "排除"
+  },
+  {
+    "code": "PTC",
+    "name": "PTC",
+    "market": "美股",
+    "action": "等待"
+  }
+]
